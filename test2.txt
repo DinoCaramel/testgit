@@ -1,3 +1,4 @@
+saya nambah baris baru
 - membuat directori
   mkdir [nama folder]->make directory
 
